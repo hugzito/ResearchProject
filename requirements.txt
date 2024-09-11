@@ -7,3 +7,10 @@ geojson
 shapely
 osmnx
 scipy
+plotly
+nbformat>=4.2.0
+selenium
+beautifulsoup4
+requests
+geopy
+lxml
