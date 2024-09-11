@@ -1,0 +1,37 @@
+Aalborg
+Aarhus
+Amsterdam
+Antwerp
+Atlanta
+Basel
+Bergen
+Berlin
+Brussels
+Columbus
+Copenhagen
+Detroit
+Freiburg
+Hamburg
+Kristiansand
+Lillestrom
+Los Angeles
+Madrid
+Marseille
+Miami
+New York City
+Odense
+Oslo
+Ottawa
+Paris
+Portland
+Rome
+Rotterdam
+San Francisco
+Seattle
+Stavanger
+Tel Aviv
+Trondheim
+Vancouver
+Vienna
+Washington DC
+Zürich
