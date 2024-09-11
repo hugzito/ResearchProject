@@ -1,37 +1,49 @@
-Aalborg
-Aarhus
-Amsterdam
-Antwerp
-Atlanta
-Basel
-Bergen
-Berlin
-Brussels
-Columbus
-Copenhagen
-Detroit
-Freiburg
-Hamburg
-Kristiansand
-Lillestrom
-Los Angeles
-Madrid
-Marseille
-Miami
-New York City
-Odense
-Oslo
-Ottawa
-Paris
-Portland
-Rome
-Rotterdam
-San Francisco
-Seattle
-Stavanger
-Tel Aviv
-Trondheim
-Vancouver
-Vienna
-Washington DC
-Zürich
+Name,api_endpoints,api_endpoint_active
+Aalborg,https://stables.donkey.bike/api/public/gbfs/2/donkey_aalborg/gbfs.json,false
+Aarhus,https://stables.donkey.bike/api/public/gbfs/2/donkey_aarhus/gbfs.json,true
+Amsterdam,https://stables.donkey.bike/api/public/gbfs/2/donkey_am/gbfs.json,true
+Antwerp,"https://mds.bird.co/gbfs/v2/public/antwerp/gbfs.json
+https://stables.donkey.bike/api/public/gbfs/2/donkey_antwerp/gbfs.json
+https://data.lime.bike/api/partners/v2/gbfs/antwerp/gbfs.json",true
+Atlanta,https://mds.bird.co/gbfs/v2/public/provider/spin/atlanta/gbfs.json,false
+Basel,"https://mds.bird.co/gbfs/v2/public/basel/gbfs.json
+https://api.mobidata-bw.de/sharing/gbfs/bolt_basel/gbfs
+https://api.mobidata-bw.de/sharing/gbfs/pickebike_basel/gbfs
+https://api.mobidata-bw.de/sharing/gbfs/tier_basel/gbfs",true
+Bergen,https://api.entur.io/mobility/v2/gbfs/v3/bergenbysykkel/gbfs,true
+Berlin,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bn/gbfs.json,true
+Brussels,"https://mds.bolt.eu/gbfs/3/336/gbfs
+https://gbfs.api.ridedott.com/public/v2/brussels/gbfs.json",true
+Columbus,https://mds.bird.co/gbfs/v2/public/columbus/gbfs.json,true
+Copenhagen,https://stables.donkey.bike/api/public/gbfs/2/donkey_copenhagen/gbfs.json,true
+Detroit,"https://detroit-us.publicbikesystem.net/customer/gbfs/v2/gbfs.json
+https://mds.bird.co/gbfs/v2/public/provider/spin/detroit/gbfs.json",true
+Freiburg,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_df/gbfs.json,true
+Hamburg,https://data.lime.bike/api/partners/v2/gbfs/hamburg/gbfs.json,true
+Kristiansand,https://api.entur.io/mobility/v2/gbfs/v3/voikristiansand/gbfs,true
+Lillestrom,https://api.entur.io/mobility/v2/gbfs/v3/boltlillestrom/gbfs,false
+Los Angeles,https://mds.bird.co/gbfs/v2/public/los-angeles/gbfs.json,true
+Madrid,https://gbfs.api.ridedott.com/public/v2/madrid/gbfs.json,true
+Marseille,https://data.lime.bike/api/partners/v2/gbfs/marseille/gbfs.json,true
+Miami,https://mds.bird.co/gbfs/v2/public/miami/gbfs.json,false
+New York City,"https://mds.bird.co/gbfs/v2/public/new-york/gbfs.json
+https://data.lime.bike/api/partners/v2/gbfs/new_york/gbfs.json
+https://citibikenyc.com/system-data",true
+Odense,https://stables.donkey.bike/api/public/gbfs/2/donkey_odense/gbfs.json,false
+Oslo,https://api.entur.io/mobility/v2/gbfs/v3/oslobysykkel/gbfs,true
+Ottawa,https://mds.bird.co/gbfs/v2/public/ottawa/gbfs.json,true
+Paris,"https://gbfs.api.ridedott.com/public/v2/paris/gbfs.json
+https://data.lime.bike/api/partners/v2/gbfs/paris/gbfs.json",true
+Portland,https://gbfs.biketownpdx.com/gbfs/2.3/gbfs.json,true
+Rome,https://mds.bird.co/gbfs/v2/public/rome/gbfs.json,true
+Rotterdam,https://stables.donkey.bike/api/public/gbfs/2/donkey_rt/gbfs.json,true
+San Francisco,"https://data.lime.bike/api/partners/v2/gbfs/san_francisco/gbfs.json
+https://gbfs.baywheels.com/gbfs/2.3/gbfs.json",true
+Seattle,https://data.lime.bike/api/partners/v2/gbfs/seattle/gbfs.json,true
+Stavanger,https://api.entur.io/mobility/v2/gbfs/v3/kolumbusbysykkel/gbfs,true
+Tel Aviv,https://mds.bird.co/gbfs/v2/public/tel-aviv/gbfs.json,true
+Trondheim,https://api.entur.io/mobility/v2/gbfs/v3/trondheimbysykkel/gbfs,true
+Vancouver,https://vancouver-gbfs.smoove.pro/gbfs/2/gbfs.json,true
+Vienna,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_wr/gbfs.json,true
+Washington DC,https://gbfs.capitalbikeshare.com/gbfs/2.3/gbfs.json,true
+Zürich,https://mds.bird.co/gbfs/v2/public/zurich/gbfs.json,true
