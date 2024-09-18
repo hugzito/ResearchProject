@@ -7,3 +7,4 @@ geojson
 shapely
 osmnx
 scipy
+tqdm
