@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+9999,1,9999,Test Route,,3,,ffffff,000000
+CH-US,1,CH-US,Congress Heights – Union Station,,3,,ffffff,000000
+EM-LP,1,EM-LP,Eastern Market – L’Enfant Plaza,,3,,ffffff,000000
+GT-US,1,GT-US,Georgetown – Union Station,,3,,ffffff,fdb913
+NMS,1,NMS,National Mall Route,,3,,ffffff,ed1c2f
+RS-DP,1,RS-DP,Dupont Circle – Rosslyn,,3,,ffffff,00aeef
+WP-AM,1,WP-AM,Woodley Park – Adams Morgan – McPherson Square,,3,,ffffff,41ad49

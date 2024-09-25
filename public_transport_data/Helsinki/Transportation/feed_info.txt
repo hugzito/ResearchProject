@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Helsingin seudun liikenne,http://www.hsl.fi/,fi,20240917,20241115,2024-09-17 23:58:59

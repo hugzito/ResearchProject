@@ -1,0 +1,3 @@
+route_id,direction_id,direction
+12420,1,Eastbound
+12420,0,Westbound

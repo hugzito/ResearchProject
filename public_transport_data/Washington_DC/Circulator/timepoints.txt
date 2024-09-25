@@ -1,0 +1,147 @@
+timepoint_id,timepoint_code,timepoint_name,timepoint_desc,timepoint_lat,timepoint_lon,zone_id,timepoint_url,location_type,parent_station,timepoint_timezone,wheelchair_boarding
+1,1003852,"East Basin Drive SW at Jefferson Memorial (WB)",,38.879926,-77.037402,,,,,,0
+2,1000620,"8th Street and E Street SE (NB)",,38.882996,-76.994895,,,,,,0
+3,1001878,"Columbia Road and Ontario Road NW (WB)",,38.924512,-77.040062,,,,,,0
+4,1001637,"Wisconsin Avenue and 34th Street NW (NB)",,38.915898,-77.067755,,,,,,0
+6,1000855,"Constitution Avenue and 21st Street NW (EB)",,38.891977,-77.046862,,,,,,0
+7,1001065,"N Capitol Street and Massachusetts Avenue NW (SB)",,38.897808,-77.009201,,,,,,0
+8,1001702,"14th Street and U Street NW (NB)",,38.917452,-77.031825,,,,,,0
+9,1003848,"3rd Street near Madison Drive NW (NB)",,38.889932,-77.015068,,,,,,0
+10,1001376,"Wisconsin Avenue and Dumbarton Street NW (NB)",,38.907395,-77.063253,,,,,,0
+12,1000504,"M Street and 4th Street SE (EB)",,38.876363,-77.000745,,,,,,0
+13,1001993,"Mount Pleasant Street and Irving Street NW (NB)",,38.928589,-77.037178,,,,,,0
+14,1003525,"New York Avenue and 9th Street NW (EB)",,38.901801,-77.024610,,,,,,0
+15,1001496,"Wisconsin Avenue and Q Street NW (NB)",,38.911051,-77.065178,,,,,,0
+16,1003859,"Madison Drive and 4th Street NW (WB)",,38.890636,-77.017323,,,,,,0
+17,6001347,"Rosslyn Metro Station",,38.897320,-77.071558,,,,,,0
+18,1001257,"13th Street and K Street NW (SB)",,38.902768,-77.029768,,,,,,0
+19,1003813,"Lower K Street and 30th Street NW (WB)",,38.902678,-77.058852,,,,,,0
+20,1001233,"K Street and 19th Street NW (WB)",,38.902600,-77.043266,,,,,,0
+21,1003847,"15th Street and Jefferson Drive SW (SB)",,38.888409,-77.033545,,,,,,0
+23,1001426,"Wisconsin Avenue and P Street NW (SB)",,38.909370,-77.064485,,,,,,0
+24,1001323,"M Street and 31st Street NW (WB)",,38.905286,-77.061571,,,,,,0
+26,1001413,"14th Street and Rhode Island Avenue NW (NB)",,38.909194,-77.031806,,,,,,0
+27,1001316,"Pennsylvania Avenue and 28th Street NW (WB)",,38.904881,-77.057217,,,,,,0
+28,1001265,"Pennsylvania Avenue and 24th Street NW (EB)",,38.902893,-77.051559,,,,,,0
+29,1003854,"Jefferson Drive and 7th Street SW (EB)",,38.888654,-77.022624,,,,,,0
+30,1001182,"Pennsylvania Avenue and 21st Street NW (EB)",,38.901240,-77.046829,,,,,,0
+32,1003794,"New Hampshire Avenue and M Street NW (NB)",,38.905688,-77.047012,,,,,,0
+33,1001241,"K Street and Connecticut Avenue NW (WB)",,38.902570,-77.039227,,,,,,0
+34,1003810,"K Street and 13th Street NW (WB)",,38.902601,-77.028892,,,,,,0
+37,1003507,"Wisconsin Avenue and M Street NW (NB)",,38.904645,-77.062697,,,,,,0
+38,1003204,"M Street and Wisconsin Avenue NW (WB)",,38.905260,-77.063201,,,,,,0
+39,1000585,"8th Street and G Street SE (NB)",,38.881083,-76.994850,,,,,,0
+40,1001209,"14th Street and K Street NW (NB)",,38.902253,-77.031808,,,,,,0
+41,1003867,"West Basin Drive near Independence Avenue SW (NB)",,38.885432,-77.044886,,,,,,0
+43,1000505,"M Street and New Jersey Avenue SE (EB)",,38.876365,-77.003789,,,,,,0
+44,1000512,"M Street and 4th Street SE (WB)",,38.876591,-77.000392,,,,,,0
+45,1000640,"8th Street and D Street SE (SB)",,38.883513,-76.995083,,,,,,0
+46,1001226,"K Street and 16th Street NW (EB)",,38.902459,-77.036790,,,,,,0
+47,1003509,"K Street and 11th Street NW (EB)",,38.902435,-77.026604,,,,,,0
+48,1001333,"New Hampshire Avenue and M Street NW (SB)",,38.905503,-77.047465,,,,,,0
+51,1001094,"Massachusetts Avenue and New Jersey Avenue NW (WB)",,38.899222,-77.013069,,,,,,0
+52,1001512,"Wisconsin Avenue and Q Street NW (SB)",,38.910931,-77.065293,,,,,,0
+53,1000389,"Martin Luther King Jr Ave and W Street SE (NB)",,38.864241,-76.989978,,,,,,0
+55,1003827,"M Street and 24th Street NW (WB)",,38.905351,-77.051834,,,,,,0
+56,1001470,"14th Street and P Street NW (SB)",,38.909900,-77.032086,,,,,,0
+57,1001191,"I Street and 14th Street NW (WB)",,38.901441,-77.031694,,,,,,0
+60,1003862,"Massachusetts Avenue and 7th Street NW (EB)",,38.901944,-77.021548,,,,,,0
+62,1003864,"Massachusetts Avenue and 5th Street NW (WB)",,38.901144,-77.018743,,,,,,0
+63,1003817,"K Street and 13th Street NW (EB)",,38.902450,-77.028926,,,,,,0
+64,1003286,"600 M Street SE (Navy Yard Entrance) (WB)",,38.876601,-76.997614,,,,,,0
+65,1003678,"Adams Mill Road and Columbia Road NW (WB)",,38.922964,-77.042659,,,,,,0
+66,1003860,"Madison Drive and 7th Street NW (WB)",,38.890601,-77.022436,,,,,,0
+67,1000654,"Pennsylvania Avenue and 8th Street SE (EB)",,38.884219,-76.995612,,,,,,0
+68,1003559,"600 M Street SE (Navy Yard Entrance) (EB)",,38.876383,-76.997358,,,,,,0
+69,1003816,"35th Street and Wisconsin Avenue NW (SB)",,38.917620,-77.069531,,,,,,0
+70,1001321,"M Street and Thomas Jefferson Street NW (EB)",,38.905108,-77.060470,,,,,,0
+71,1003161,"Irving Street and 14th Street NW (WB)",,38.928722,-77.032974,,,,,,0
+72,1003828,"M Street and 28th Street NW (WB)",,38.905322,-77.056416,,,,,,0
+73,1001862,"Columbia Road and Ontario Road NW (EB)",,38.924060,-77.040415,,,,,,0
+74,1000398,"Martin Luther King Jr Ave and W Street SE (SB)",,38.865006,-76.989804,,,,,,0
+75,1003812,"K Street and 24th Street NW (WB)",,38.902672,-77.051596,,,,,,0
+77,1001318,"M Street and Potomac Street NW (WB)",,38.905028,-77.065467,,,,,,0
+78,1001090,"Massachusetts Avenue and New Jersey Avenue NW (EB)",,38.898897,-77.012924,,,,,,0
+79,1003850,"Constitution Avenue and 18th Street NW (EB)",,38.891882,-77.041405,,,,,,0
+80,1003814,"Lower K Street and Wisconsin Avenue NW (WB)",,38.902712,-77.062422,,,,,,0
+81,1001319,"M Street and Wisconsin Avenue NW (EB)",,38.905090,-77.062299,,,,,,0
+82,1003205,"M Street and 33rd Street NW (WB)",,38.905212,-77.065852,,,,,,0
+83,1001593,"Wisconsin Avenue and R Street NW (NB)",,38.914019,-77.066735,,,,,,0
+85,1003863,"Massachusetts Avenue and 5th Street NW (EB)",,38.901094,-77.019100,,,,,,0
+86,1001315,"M Street and 34th Street NW (WB)",,38.904981,-77.067419,,,,,,0
+87,1003846,"15th Street and Madison Drive NW (SB)",,38.890333,-77.033326,,,,,,0
+88,1003148,"M Street and New Jersey Avenue SE (WB)",,38.876596,-77.004772,,,,,,0
+89,1003857,"L Street and 24th Street NW (WB)",,38.903681,-77.051220,,,,,,0
+90,1003826,"19th Street and N Street NW (SB)",,38.907501,-77.043514,,,,,,0
+91,1001373,"Wisconsin Avenue and N Street NW (SB)",,38.907238,-77.063350,,,,,,0
+92,1001290,"Pennsylvania Avenue and 26th Street NW (EB)",,38.903856,-77.054323,,,,,,0
+93,1001964,"Columbia Road and 14th Street NW (WB)",,38.927541,-77.033118,,,,,,0
+94,1001322,"M Street and 30th Street NW (WB)",,38.905309,-77.059478,,,,,,0
+96,1003865,"15th Street near Maine Avenue SW (SB)",,38.885699,-77.033846,,,,,,0
+97,1001198,"Pennsylvania Avenue and 22nd Street NW (EB)",,38.901973,-77.048932,,,,,,0
+98,1003853,"Jefferson Drive and 12th Street SW (EB)",,38.888598,-77.028340,,,,,,0
+99,1001595,"Wisconsin Avenue and R Street NW (SB)",,38.913873,-77.066864,,,,,,0
+100,1001406,"Wisconsin Avenue and P Street NW (NB)",,38.909066,-77.064125,,,,,,0
+101,1003521,"Massachusetts Avenue and 7th Street NW (WB)",,38.902181,-77.021712,,,,,,0
+103,1001951,"Columbia Roat and 16th Street NW (WB)",,38.926890,-77.035935,,,,,,0
+104,1001242,"K Street and 16th Street NW (WB)",,38.902599,-77.036983,,,,,,0
+105,1001222,"K Street and 14th Street NW (EB)",,38.902442,-77.032208,,,,,,0
+106,1003811,"21st Street and K Street NW (SB)",,38.902190,-77.046717,,,,,,0
+107,1003744,"Mass. Avenue and Columbus Cir (Union Station) (WB)",,38.895977,-77.005182,,,,,,0
+108,1001877,"Connecticut Avenue and 24th Street NW (SB)",,38.924490,-77.052221,,,,,,0
+109,1003660,"New York Avenue and 9th Street NW (WB)",,38.902091,-77.024599,,,,,,0
+112,1001229,"K Street and 17th Street NW (EB)",,38.902445,-77.039758,,,,,,0
+113,1001120,"North Capitol Street and H Street NE (NB)",,38.900012,-77.008923,,,,,,0
+114,1003851,"E St and Columbus Circle NE (Union Station) (EB)",,38.896426,-77.007955,,,,,,0
+115,1001645,"Wisconsin Avenue and 34th Street NW (SB)",,38.915889,-77.068024,,,,,,0
+116,1001033,"Massachusetts Avenue and First Street NE (EB)",,38.896873,-77.008034,,,,,,0
+118,1000662,"Pennsylvania Avenue and 7th Street SE (WB)",,38.884769,-76.995955,,,,,,0
+119,1000589,"8th Street and G Street SE (SB)",,38.881370,-76.995080,,,,,,0
+121,1003858,"Lincoln Memorial Circle SW (WB)",,38.888475,-77.050624,,,,,,0
+122,1000527,"8th Street and L Street SE (NB)",,38.877799,-76.994873,,,,,,0
+123,1003861,"Madison Drive and 12th Street NW (WB)",,38.890517,-77.028701,,,,,,0
+124,1001219,"K Street and 19th Street NW (EB)",,38.902444,-77.043683,,,,,,0
+584,1000822,"8th Street and E Capitol NE",,38.890115,-76.994889,,,,,,0
+585,1003781,"11th Street and O Street NE",,38.873565,-76.991238,,,,,,0
+586,1003755,"8th Street and L Street SE",,38.877229,-76.995085,,,,,,0
+587,1000517,"M Street and Delaware Ave SW",,38.876586,-77.013563,,,,,,0
+588,1000216,"Stanton Road and Bruce Place SE",,38.850662,-76.980941,,,,,,0
+589,1000295,"Stanton Road and Douglass Road SE",,38.857415,-76.987355,,,,,,0
+591,1000265,"Stanton Road and Pomeroy Road SE",,38.856077,-76.986895,,,,,,0
+592,1000311,"Sheridan Road and Bowen Road SE",,38.858849,-76.993289,,,,,,0
+593,1001239,"K Street and 14th Street NW",,38.902600,-77.032504,,,,,,0
+594,1002989,"Anacostia Station Bus Bay F",,38.861893,-76.995070,,,,,,0
+595,1000498,"M Street and 4th Street SW",,38.876354,-77.017189,,,,,,0
+596,1003316,"Congress Heights Bus Bay G",,38.845883,-76.987656,,,,,,0
+597,1000566,"7th Street and I Street SW",,38.879959,-77.022026,,,,,,0
+598,1003665,"D Street and 7th Street SW",,38.884768,-77.020666,,,,,,0
+599,1000194,"Stanton Road and Alabama Ave SE",,38.847245,-76.980360,,,,,,0
+600,1000509,"M Street and Half Street SE",,38.876572,-77.008423,,,,,,0
+601,1003690,"M Street and 4th Street SW",,38.876563,-77.018021,,,,,,0
+602,1001696,"14th Street and U Street NW",,38.917192,-77.032072,,,,,,0
+603,1000251,"Stanton Road and Elvans Road SE",,38.854381,-76.985604,,,,,,0
+604,1003908,"Maine Avenue and 7th Street SW",,38.878497,-77.022733,,,,,,0
+605,1003032,"M Street and Half Street SE",,38.876391,-77.007042,,,,,,0
+606,1003903,"7th Street and I Street SW",,38.879689,-77.021811,,,,,,0
+607,1000305,"Stanton Road and Washington View Apts",,38.858528,-76.990139,,,,,,0
+608,1003759,"Martin Luther King Jr Ave and Good Hope Road SE",,38.867201,-76.988623,,,,,,0
+609,1003363,"Stanton Road and Bryan Place SE",,38.858285,-76.988138,,,,,,0
+610,1001827,"Calvert Street and Lanier Pl NW",,38.923149,-77.043891,,,,,,0
+611,1001202,"Pennsylvania Avenue and 22nd Street NW",,38.902094,-77.048448,,,,,,0
+612,1000495,"M Street and Delaware Ave SW",,38.876349,-77.013363,,,,,,0
+632,1000222,"Stanton Road and Bruce Place SE",,38.850911,-76.981087,,,,,,0
+633,1003361,"Stanton Road and Washington View Apts",,38.858417,-76.990395,,,,,,0
+634,1000316,"Sheridan Road and Bowen Road SE",,38.859158,-76.993460,,,,,,0
+635,1003362,"Stanton Road and Pomeroy Road SE",,38.856329,-76.987114,,,,,,0
+636,1000423,"Martin Luther King Jr Ave and U Street SE",,38.867027,-76.988941,,,,,,0
+637,1003780,"11th Street and O Street NE",,38.873442,-76.991450,,,,,,0
+638,1000821,"8th Street and E Capitol NE",,38.889985,-76.995051,,,,,,0
+639,1000197,"Stanton Road and Alabama Ave SE",,38.847229,-76.980504,,,,,,0
+640,1000252,"Stanton Road and Elvans Road SE",,38.854635,-76.986167,,,,,,0
+650,99992,"Test Stop 1",,38.914234,-76.975457,,,,,,0
+654,1003866,"Union Station Parking Garage",,38.898555,-77.006584,,,,,,0
+656,99991,"Test Route Start",,38.915746,-76.977132,,,,,,0
+657,99993,"Test Stop 2",,38.900219,-76.983374,,,,,,0
+658,99995,"Test Stop 3",,38.903988,-76.993006,,,,,,0
+659,99996,"Test Route End",,38.916211,-76.979270,,,,,,0
+660,123823,"Maine Avenue and 7th Street SW",,38.878591,-77.022446,,,,,,0
