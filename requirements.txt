@@ -16,3 +16,7 @@ geopy
 lxml
 scrapy
 geopy
+overpass
+tqdm
+pyproj
+shapely
